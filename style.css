@@ -1,0 +1,36 @@
+body{
+    background-image: url("cloudcake.png");
+    background-repeat: no-repeat;
+    margin: 0px 0px 0px;
+    background-size: 200px;
+    justify-content: center;
+    background-position: right top;
+}
+h1
+{
+    text-shadow: 1px 2px 3px blue;
+    color: red;
+    text-transform: uppercase;
+}
+div.sp
+{
+    font-family : Edwardian script ITC;
+    color: brown;
+}
+div.items
+{
+color: blue;
+font-family: copperplate Gothic Bold;
+}
+
+div.items_sub
+{
+color: rgb(66, 182, 66);
+}
+div.sub{
+    color: rgb(255, 173, 21);
+}
+div.dotted {border-style: dotted;  border-color: red;}
+
+p.mix {border-style: dotted dashed solid double;}
+
